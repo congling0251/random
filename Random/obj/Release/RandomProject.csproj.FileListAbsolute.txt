@@ -1,0 +1,12 @@
+E:\1\Random\Random\bin\Release\RandomProject.exe.config
+E:\1\Random\Random\bin\Release\RandomProject.exe
+E:\1\Random\Random\bin\Release\RandomProject.pdb
+E:\1\Random\Random\obj\Release\RandomProject.Form1.resources
+E:\1\Random\Random\obj\Release\RandomProject.Form2.resources
+E:\1\Random\Random\obj\Release\RandomProject.Properties.Resources.resources
+E:\1\Random\Random\obj\Release\RandomProject.csproj.GenerateResource.Cache
+E:\1\Random\Random\obj\Release\RandomProject.exe
+E:\1\Random\Random\obj\Release\RandomProject.pdb
+E:\1\Random\Random\obj\Release\RandomProject.csprojResolveAssemblyReference.cache
+E:\1\Random\Random\obj\Release\RandomProject.Form3.resources
+E:\1\Random\Random\obj\Release\RandomProject.Form4.resources

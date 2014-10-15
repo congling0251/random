@@ -1,0 +1,14 @@
+E:\1\Random\Random\bin\Debug\Random.exe.config
+E:\1\Random\Random\bin\Debug\Random.exe
+E:\1\Random\Random\bin\Debug\Random.pdb
+E:\1\Random\Random\obj\Debug\Random.csprojResolveAssemblyReference.cache
+E:\1\Random\Random\obj\Debug\Random.Form1.resources
+E:\1\Random\Random\obj\Debug\Random.Properties.Resources.resources
+E:\1\Random\Random\obj\Debug\Random.csproj.GenerateResource.Cache
+E:\1\Random\Random\obj\Debug\Random.exe
+E:\1\Random\Random\obj\Debug\Random.pdb
+E:\1\Random\Random\obj\Debug\Random.Form2.resources
+E:\1\Random\Random\bin\Debug\RandomProject.exe.config
+E:\1\Random\Random\obj\Debug\RandomProject.Properties.Resources.resources
+E:\1\Random\Random\obj\Debug\RandomProject.Form1.resources
+E:\1\Random\Random\obj\Debug\RandomProject.Form2.resources
